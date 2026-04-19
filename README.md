@@ -46,10 +46,6 @@ custom-transformer-llm/
   load.py
   test.py
   clean.py
-  data_samples/
-    qa_dataset.txt
-    quotes.txt
-    shakespeare.txt
   models/
     model_final.pt
     model_english.pt
