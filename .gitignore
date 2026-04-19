@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local / OS
+.DS_Store
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# Runtime outputs
+reports/
+outputs/
+wandb/
