@@ -1,3 +1,5 @@
+Link to the models: https://huggingface.co/Unknown898/Test1/tree/main/models
+
 # Included Model Checkpoints
 
 This directory contains the trained root model artifacts from `/Users/admin/AI`.
